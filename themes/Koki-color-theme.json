@@ -166,8 +166,6 @@
     "peekViewResult.background": "#121212",
     "settings.headerForeground": "#dbd7ca",
     "settings.modifiedItemIndicator": "#4d9375",
-    "welcomePage.buttonBackground": "#2f363d",
-    "welcomePage.buttonHoverBackground": "#444d56",
     "problemsErrorIcon.foreground": "#cb7676",
     "problemsWarningIcon.foreground": "#d4976c",
     "problemsInfoIcon.foreground": "#6394bf",
