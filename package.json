@@ -17,5 +17,9 @@
         "path": "./themes/KaiYu He-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hky301/vscode-theme-koki.git"
   }
 }
