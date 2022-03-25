@@ -9,12 +9,13 @@
   "categories": [
     "Themes"
   ],
+  "publisher": "hky",
   "contributes": {
     "themes": [
       {
-        "label": "KaiYu He",
+        "label": "Koki",
         "uiTheme": "vs-dark",
-        "path": "./themes/KaiYu He-color-theme.json"
+        "path": "./themes/Koki-color-theme.json"
       }
     ]
   },
