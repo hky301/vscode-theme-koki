@@ -1,8 +1,8 @@
 {
-  "name": "theme-koki",
-  "displayName": "Koki Theme",
-  "description": "Koki Theme for VS Code",
-  "version": "0.0.5",
+  "name": "theme-ShibaInu",
+  "displayName": "ShibaInu Theme",
+  "description": "ShibaInu Theme for VS Code",
+  "version": "0.0.6",
   "engines": {
     "vscode": "^1.65.0"
   },
@@ -13,9 +13,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Koki",
+        "label": "ShibaInu",
         "uiTheme": "vs-dark",
-        "path": "./themes/Koki-color-theme.json"
+        "path": "./themes/ShibaInu-color-theme.json"
       }
     ]
   },
